@@ -1,7 +1,7 @@
 
 @font-face {
     font-family: Avenir;
-    src: url("/V2-Landing-Page/fonts/exported-fonts/Avenir-Medium-09.ttf");
+    src: url("/fonts/exported-fonts/Avenir-Medium-09.ttf");
 }
 
 * {
@@ -823,7 +823,7 @@ html {
     max-height: 1000px;
     margin-top: 100px;
     /* padding: 15% 0 15% 0; */
-    background: rgba(0, 0, 0, 0.701) url("/V2-Landing-Page/images/waterfront-quietcool-demo.jpg");
+    background: rgba(0, 0, 0, 0.701) url("/images/waterfront-quietcool-demo.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1245,7 +1245,7 @@ html {
 .v2-stats-container {
     width: 100%;
     padding: 100px 0;
-    background: rgba(0, 0, 0, 0.708) url("/V2-Landing-Page/images/palm-trees-sunset.jpeg");
+    background: rgba(0, 0, 0, 0.708) url("/images/palm-trees-sunset.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -1313,7 +1313,7 @@ html {
 .v2-benefits-container {
     width: 100%;
     padding: 100px 0;
-    background: rgba(0, 0, 0, 0.701) url("/V2-Landing-Page/images/Trident_EveningLifestyle.jpg");
+    background: rgba(0, 0, 0, 0.701) url("/images/Trident_EveningLifestyle.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1487,7 +1487,7 @@ html {
 .v2-how-it-works-image {
     width: 100%;
     height: 600px;
-    background-image: url("/V2-Landing-Page/images/LungHouse_2021-landscape.jpg");
+    background-image: url("/images/LungHouse_2021-landscape.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2372,7 +2372,7 @@ input[type="range"]::-webkit-slider-thumb {
     -webkit-box-shadow: 1.1px 1.1px 6.8px rgba(0, 0, 0, 0), 0px 0px 1.1px rgba(13, 13, 13, 0);
     box-shadow: 1.1px 1.1px 6.8px rgba(0, 0, 0, 0), 0px 0px 1.1px rgba(13, 13, 13, 0);
     border: 0px solid #000000;
-    background: url("/V2-Landing-Page/images/calc-fan-icon.webp") #ffffff;
+    background: url("/images/calc-fan-icon.webp") #ffffff;
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;

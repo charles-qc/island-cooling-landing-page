@@ -2372,7 +2372,7 @@ input[type="range"]::-webkit-slider-thumb {
     -webkit-box-shadow: 1.1px 1.1px 6.8px rgba(0, 0, 0, 0), 0px 0px 1.1px rgba(13, 13, 13, 0);
     box-shadow: 1.1px 1.1px 6.8px rgba(0, 0, 0, 0), 0px 0px 1.1px rgba(13, 13, 13, 0);
     border: 0px solid #000000;
-    background: url("/images/calc-fan-icon.webp") #ffffff;
+    background: url("https://quietcoolsystems.com/wp-content/uploads/2021/09/calc-fan-icon.webp") #ffffff;
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;

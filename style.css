@@ -194,7 +194,7 @@ html {
     width: 50%;
     max-width: 600px;
     height: 100%;
-    background: #000000f0 url("images/Logo-wall.jpg");
+    background: #000000f0 url("https://quietcoolsystems.com/wp-content/uploads/2021/09/Logo-wall.jpg");
     background-position: center;
     background-size: cover;
     background-blend-mode: overlay;
@@ -288,7 +288,7 @@ html {
 .rebate-modal-left-side-2 {
     width: 50%;
     height: 100%;
-    background-image: url("images/woman-holding-money.webp");
+    background-image: url("https://quietcoolsystems.com/wp-content/uploads/2021/09/woman-holding-money.webp");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -823,7 +823,7 @@ html {
     max-height: 1000px;
     margin-top: 100px;
     /* padding: 15% 0 15% 0; */
-    background: rgba(0, 0, 0, 0.701) url("/images/waterfront-quietcool-demo.jpg");
+    background: rgba(0, 0, 0, 0.701) url("https://quietcoolsystems.com/wp-content/uploads/2021/09/waterfront-quietcool-demo.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1245,7 +1245,7 @@ html {
 .v2-stats-container {
     width: 100%;
     padding: 100px 0;
-    background: rgba(0, 0, 0, 0.708) url("/images/palm-trees-sunset.jpeg");
+    background: rgba(0, 0, 0, 0.708) url("https://quietcoolsystems.com/wp-content/uploads/2021/09/palm-trees-sunset.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -1313,7 +1313,7 @@ html {
 .v2-benefits-container {
     width: 100%;
     padding: 100px 0;
-    background: rgba(0, 0, 0, 0.701) url("/images/Trident_EveningLifestyle.jpg");
+    background: rgba(0, 0, 0, 0.701) url("https://quietcoolsystems.com/wp-content/uploads/2021/09/Trident_EveningLifestyle.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1487,7 +1487,7 @@ html {
 .v2-how-it-works-image {
     width: 100%;
     height: 600px;
-    background-image: url("/images/LungHouse_2021-landscape.jpg");
+    background-image: url("https://quietcoolsystems.com/wp-content/uploads/2021/09/LungHouse_2021-landscape.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

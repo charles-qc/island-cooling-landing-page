@@ -194,7 +194,7 @@ html {
     width: 50%;
     max-width: 600px;
     height: 100%;
-    background: url("https://quietcoolsystems.com/wp-content/uploads/2021/09/Logo-wall.jpeg");
+    background: #000000f0 url("https://quietcoolsystems.com/wp-content/uploads/2021/09/Logo-wall.jpeg");
     background-position: center;
     background-size: cover;
     background-blend-mode: overlay;

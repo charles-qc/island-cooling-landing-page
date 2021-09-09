@@ -322,10 +322,6 @@ html {
     font-size: 2rem;
 }
 
-.v2-banner-content>img{
-    width: 150px;
-}
-
 /* Media queries for the banner */
 @media only screen and (max-width: 600px){
     .v2-banner-content>p{

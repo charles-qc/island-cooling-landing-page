@@ -61,11 +61,13 @@ function scrollId() {
         top: 0, // could be negative value
         left: 0,
         behavior: 'smooth'
-    });*/
+    });
+    scrollId();
+    */
 
 
 
-scrollId();
+
 
 function tabSection() {
     $(".whf-1").on("click", function() {
